@@ -1,0 +1,8 @@
+﻿{
+"logicGateQuestions":
+	[
+		{"question":"What does a not gate do?","correctAnswer":"Inverts the input","wrongAnswer1":"Changes the output to 0","wrongAnswer2":"Changes the output to 1","time":14.5},
+		{"question":"For an add gate to output 1...?","correctAnswer":"Both inputs must be 1","wrongAnswer1":"Both outputs must be 1","wrongAnswer2":"Atleast one input must be 1","time":16.6},
+		{"question":"For an or gate to output 1...?","correctAnswer":"Atleast one input must be 1","wrongAnswer1":"Both inputs must be 1","wrongAnswer2":"Both inputs must be 0","time":16.6}
+	],
+}

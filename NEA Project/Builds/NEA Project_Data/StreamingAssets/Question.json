@@ -1,0 +1,36 @@
+﻿{
+"logicGateQuestions":
+	[
+		{"question":"What does a not gate do?","correctAnswer":"Inverts the input","wrongAnswer1":"Changes the output to 0","wrongAnswer2":"Changes the output to 1","time":14.5},
+		{"question":"For an add gate to output 1...?","correctAnswer":"Both inputs must be 1","wrongAnswer1":"Both outputs must be 1","wrongAnswer2":"Atleast one input must be 1","time":16.6},
+		{"question":"For an or gate to output 1...?","correctAnswer":"Atleast one input must be 1","wrongAnswer1":"Both inputs must be 1","wrongAnswer2":"Both inputs must be 0","time":16.6}
+	],
+
+"binaryQuestions":
+	[
+		{"question":"What is a natural number?","correctAnswer":"A whole, positive number","wrongAnswer1":"A fraction","wrongAnswer2":"A ratio","time":6.1},
+		{"question":"What base is the denary system?","correctAnswer":"10","wrongAnswer1":"2","wrongAnswer2":"1","time":5},
+		{"question":"How many digits does binary use?","correctAnswer":"2","wrongAnswer1":"0","wrongAnswer2":"1","time":4}
+	],
+
+"booleanAlgebraQuestions":
+	[
+		{"question":"The + symbol represents?","correctAnswer":"Or","wrongAnswer1":"And","wrongAnswer2":"Not","time":6.3},
+		{"question":"A.1 can be simplified to?","correctAnswer":"A","wrongAnswer1":"1","wrongAnswer2": "0","time":7.8},
+		{"question":"The ⊕ symbol represents?","correctAnswer":"XOR","wrongAnswer1":"Not","wrongAnswer2":"And","time":9}
+	],
+
+"soundQuestions":
+	[
+		{"question":"Sound waves take the form of?","correctAnswer":"Continuous, analogue form","wrongAnswer1":"Discrete, digital form","wrongAnswer2":"Discrete, analogue form","time":10},
+		{"question":"What is sample rate?","correctAnswer":"The rate at which the amplitude of the sound is recorded","wrongAnswer1":"The rate at which the frequency of the sound is recorded","wrongAnswer2":"The frequency of the sound","time":12.33},
+		{"question":"What type of compression do MP3 files use?","correctAnswer":"Lossy","wrongAnswer1":"Loseless","wrongAnswer2":"RLE","time":13.34}
+	],
+
+"dataRepresentationQuestions":
+	[
+		{"question":"What is encryption?","correctAnswer":"Transforming data from one form to another for protection","wrongAnswer1":"Compressing data","wrongAnswer2":"Using RLE","time":6.32},
+		{"question":"For data to be truly secure, the encryption key must not...?","correctAnswer":"Have been used before","wrongAnswer1":"Be truly random","wrongAnswer2":"Be equal to or longer than the original plaintext","time":12.44},
+		{"question":"Which compression method outputs the smallest file?","correctAnswer":"Lossy","wrongAnswer1":"Loseless","wrongAnswer2":"Encryption","time":12.44}
+	]
+}
