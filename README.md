@@ -17,14 +17,14 @@ Several graphs are generated from the student's playtime statistics. One of the 
 
 ![image123](https://user-images.githubusercontent.com/107321078/173202202-2fd2004c-82a3-413b-8c85-283dcfa550f3.png)
 
-Additionally along with the graph, the student also recieves written comments on their performance on each of the five areas.
+Additionally along with the graph, the student also receives written comments on their performance on each of the five areas.
 
-Line graphs are also generated where the student can see their statistics based on their number of correct answers and scores for all 5 subject areas. The Product Moment Correlation Coefficent formula is used to produce written feedback on whether the student's performance is gradually improving or worsening.
+Line graphs are also generated where the student can see their statistics based on their number of correct answers and scores for all 5 subject areas. The Product Moment Correlation Coefficient formula is used to produce written feedback on whether the student's performance is gradually improving or worsening.
 
 ![image66](https://user-images.githubusercontent.com/107321078/173202558-c7715967-5fbe-4974-9cc1-a97e6ed92358.png)
 
 ## Training
-Before playing the main game, the student has the oppurtunity to play a training game which informs them of the controls, how items work and how to answer the multiple choice questions.
+Before playing the main game, the student has the opportunity to play a training game which informs them of the controls, how items work and how to answer the multiple choice questions.
 ![Training Images](https://user-images.githubusercontent.com/107321078/174834003-fbee7d33-04ec-4993-8f09-10fdee8a1f6e.png)
 
 
