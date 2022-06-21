@@ -19,7 +19,7 @@ Several graphs are generated from the student's playtime statistics. One of the 
 
 Additionally along with the graph, the student also recieves written comments on their performance on each of the five areas.
 
-Line graphs are also generated where the student can see their statistics based on their number of correct answers and scores for all 5 subject areas. Once again, the student also recieves written feedback on whether their performance is gradually improving or decreasing. In order to calculate this the Product Moment Correlation Coefficent formula is used.
+Line graphs are also generated where the student can see their statistics based on their number of correct answers and scores for all 5 subject areas. The Product Moment Correlation Coefficent formula is used to produce written feedback on whether the student's performance is gradually improving or worsening.
 
 ![image66](https://user-images.githubusercontent.com/107321078/173202558-c7715967-5fbe-4974-9cc1-a97e6ed92358.png)
 
